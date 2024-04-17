@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2166,
-    "timeDay": 2166,
-    "timeWeek": 2166,
-    "timeMonth": 2166,
-    "timeYear": 2166,
+    "time": 2231,
+    "timeDay": 2231,
+    "timeWeek": 2231,
+    "timeMonth": 2231,
+    "timeYear": 2231,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1219,
-    "timeDay": 1219,
-    "timeWeek": 1219,
-    "timeMonth": 1219,
-    "timeYear": 1219,
+    "time": 1191,
+    "timeDay": 1191,
+    "timeWeek": 1191,
+    "timeMonth": 1191,
+    "timeYear": 1191,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2523,
-    "timeDay": 2523,
-    "timeWeek": 2523,
-    "timeMonth": 2523,
-    "timeYear": 2523,
+    "time": 2138,
+    "timeDay": 2138,
+    "timeWeek": 2138,
+    "timeMonth": 2138,
+    "timeYear": 2138,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1750,
-    "timeDay": 1750,
-    "timeWeek": 1750,
-    "timeMonth": 1750,
-    "timeYear": 1750,
+    "time": 1759,
+    "timeDay": 1759,
+    "timeWeek": 1759,
+    "timeMonth": 1759,
+    "timeYear": 1759,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/b2b-marketingservices.de.ico",
     "slug": "b2b-marketing-services",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-17": 0
+      "2024-04-17": 5
     }
   }
 ]
