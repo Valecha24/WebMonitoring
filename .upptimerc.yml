@@ -13,6 +13,8 @@ sites:
     url: https://produktdatenfabrik.de/
   - name: b2b MarketingServices
     url: https://b2b-marketingservices.de/
+  - name: b2b MarketingServices
+    url: https://b2b-marketingservices.de/
     port: 80
     check: "tcp-ping"
     ipv6: true
