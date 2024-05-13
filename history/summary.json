@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1978,
-    "timeDay": 1368,
-    "timeWeek": 1982,
+    "timeDay": 0,
+    "timeWeek": 2106,
     "timeMonth": 1978,
     "timeYear": 1978,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 937,
-    "timeDay": 780,
-    "timeWeek": 859,
+    "timeDay": 0,
+    "timeWeek": 869,
     "timeMonth": 937,
     "timeYear": 937,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1887,
-    "timeDay": 1747,
-    "timeWeek": 1869,
+    "timeDay": 1875,
+    "timeWeek": 1915,
     "timeMonth": 1887,
     "timeYear": 1887,
     "dailyMinutesDown": {}
@@ -65,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1323,
-    "timeDay": 943,
-    "timeWeek": 1273,
+    "timeDay": 0,
+    "timeWeek": 1344,
     "timeMonth": 1323,
     "timeYear": 1323,
     "dailyMinutesDown": {}
@@ -77,22 +77,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/b2b-marketingservices.de.ico",
     "slug": "b2b-marketing-services",
     "status": "down",
-    "uptime": "91.03%",
-    "uptimeDay": "39.86%",
-    "uptimeWeek": "66.08%",
-    "uptimeMonth": "91.03%",
-    "uptimeYear": "91.03%",
+    "uptime": "91.09%",
+    "uptimeDay": "39.91%",
+    "uptimeWeek": "66.30%",
+    "uptimeMonth": "91.09%",
+    "uptimeYear": "91.09%",
     "time": 1717,
-    "timeDay": 1661,
+    "timeDay": 1662,
     "timeWeek": 1673,
     "timeMonth": 1717,
     "timeYear": 1717,
     "dailyMinutesDown": {
-      "2024-05-13": 844,
+      "2024-05-13": 851,
       "2024-05-12": 806,
       "2024-05-11": 766,
       "2024-05-10": 837,
-      "2024-05-09": 170
+      "2024-05-09": 140
     }
   },
   {
@@ -101,22 +101,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/b2b-marketingservices.de.ico",
     "slug": "b2b-marketing-services",
     "status": "down",
-    "uptime": "91.03%",
-    "uptimeDay": "39.86%",
-    "uptimeWeek": "66.08%",
-    "uptimeMonth": "91.03%",
-    "uptimeYear": "91.03%",
+    "uptime": "91.09%",
+    "uptimeDay": "39.91%",
+    "uptimeWeek": "66.30%",
+    "uptimeMonth": "91.09%",
+    "uptimeYear": "91.09%",
     "time": 1717,
-    "timeDay": 1661,
+    "timeDay": 1662,
     "timeWeek": 1673,
     "timeMonth": 1717,
     "timeYear": 1717,
     "dailyMinutesDown": {
-      "2024-05-13": 844,
+      "2024-05-13": 851,
       "2024-05-12": 806,
       "2024-05-11": 766,
       "2024-05-10": 837,
-      "2024-05-09": 170
+      "2024-05-09": 140
     }
   }
 ]
