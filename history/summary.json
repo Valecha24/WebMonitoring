@@ -40,9 +40,9 @@
     "url": "https://marketing-desk.de/",
     "icon": "https://icons.duckduckgo.com/ip3/marketing-desk.de.ico",
     "slug": "marketing-desk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1868,
     "timeMonth": 1887,
     "timeYear": 1887,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-13": 0
+    }
   },
   {
     "name": "ProduktDatenFabrik",
@@ -77,22 +79,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/b2b-marketingservices.de.ico",
     "slug": "b2b-marketing-services",
     "status": "down",
-    "uptime": "90.81%",
-    "uptimeDay": "43.52%",
-    "uptimeWeek": "66.02%",
-    "uptimeMonth": "90.81%",
-    "uptimeYear": "90.81%",
+    "uptime": "90.87%",
+    "uptimeDay": "42.58%",
+    "uptimeWeek": "66.21%",
+    "uptimeMonth": "90.87%",
+    "uptimeYear": "90.87%",
     "time": 1716,
-    "timeDay": 1678,
-    "timeWeek": 1662,
+    "timeDay": 1680,
+    "timeWeek": 1663,
     "timeMonth": 1716,
     "timeYear": 1716,
     "dailyMinutesDown": {
-      "2024-05-13": 387,
+      "2024-05-13": 401,
       "2024-05-12": 806,
       "2024-05-11": 766,
       "2024-05-10": 837,
-      "2024-05-09": 632
+      "2024-05-09": 599
     }
   },
   {
@@ -101,22 +103,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/b2b-marketingservices.de.ico",
     "slug": "b2b-marketing-services",
     "status": "down",
-    "uptime": "90.81%",
-    "uptimeDay": "43.50%",
-    "uptimeWeek": "66.02%",
-    "uptimeMonth": "90.81%",
-    "uptimeYear": "90.81%",
+    "uptime": "90.87%",
+    "uptimeDay": "42.56%",
+    "uptimeWeek": "66.21%",
+    "uptimeMonth": "90.87%",
+    "uptimeYear": "90.87%",
     "time": 1716,
-    "timeDay": 1678,
-    "timeWeek": 1662,
+    "timeDay": 1682,
+    "timeWeek": 1663,
     "timeMonth": 1716,
     "timeYear": 1716,
     "dailyMinutesDown": {
-      "2024-05-13": 387,
+      "2024-05-13": 401,
       "2024-05-12": 806,
       "2024-05-11": 766,
       "2024-05-10": 837,
-      "2024-05-09": 632
+      "2024-05-09": 599
     }
   }
 ]
