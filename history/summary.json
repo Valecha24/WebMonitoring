@@ -40,9 +40,9 @@
     "url": "https://marketing-desk.de/",
     "icon": "https://icons.duckduckgo.com/ip3/marketing-desk.de.ico",
     "slug": "marketing-desk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 2236,
     "timeMonth": 1950,
     "timeYear": 1950,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-16": 0
+    }
   },
   {
     "name": "ProduktDatenFabrik",
@@ -84,7 +86,7 @@
     "uptimeYear": "91.54%",
     "time": 1722,
     "timeDay": 1811,
-    "timeWeek": 1711,
+    "timeWeek": 1712,
     "timeMonth": 1722,
     "timeYear": 1722,
     "dailyMinutesDown": {
@@ -108,7 +110,7 @@
     "uptimeYear": "91.54%",
     "time": 1722,
     "timeDay": 1811,
-    "timeWeek": 1711,
+    "timeWeek": 1712,
     "timeMonth": 1722,
     "timeYear": 1722,
     "dailyMinutesDown": {
