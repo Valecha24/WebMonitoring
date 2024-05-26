@@ -79,22 +79,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/b2b-marketingservices.de.ico",
     "slug": "b2b-marketing-services",
     "status": "down",
-    "uptime": "96.24%",
-    "uptimeDay": "56.62%",
-    "uptimeWeek": "79.35%",
-    "uptimeMonth": "95.25%",
-    "uptimeYear": "96.24%",
+    "uptime": "96.08%",
+    "uptimeDay": "57.19%",
+    "uptimeWeek": "78.42%",
+    "uptimeMonth": "95.03%",
+    "uptimeYear": "96.08%",
     "time": 1721,
-    "timeDay": 1631,
+    "timeDay": 1626,
     "timeWeek": 1718,
     "timeMonth": 1717,
     "timeYear": 1721,
     "dailyMinutesDown": {
-      "2024-05-26": 0,
-      "2024-05-25": 623,
+      "2024-05-26": 74,
+      "2024-05-25": 615,
       "2024-05-24": 604,
       "2024-05-23": 637,
-      "2024-05-22": 214
+      "2024-05-22": 242
     }
   },
   {
@@ -103,22 +103,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/b2b-marketingservices.de.ico",
     "slug": "b2b-marketing-services",
     "status": "down",
-    "uptime": "96.24%",
-    "uptimeDay": "56.62%",
-    "uptimeWeek": "79.34%",
-    "uptimeMonth": "95.25%",
-    "uptimeYear": "96.24%",
+    "uptime": "96.08%",
+    "uptimeDay": "57.19%",
+    "uptimeWeek": "78.42%",
+    "uptimeMonth": "95.03%",
+    "uptimeYear": "96.08%",
     "time": 1721,
-    "timeDay": 1631,
+    "timeDay": 1626,
     "timeWeek": 1718,
     "timeMonth": 1717,
     "timeYear": 1721,
     "dailyMinutesDown": {
-      "2024-05-26": 0,
-      "2024-05-25": 623,
+      "2024-05-26": 74,
+      "2024-05-25": 615,
       "2024-05-24": 604,
       "2024-05-23": 637,
-      "2024-05-22": 214
+      "2024-05-22": 242
     }
   }
 ]
