@@ -80,21 +80,21 @@
     "slug": "b2b-marketing-services",
     "status": "down",
     "uptime": "96.33%",
-    "uptimeDay": "57.67%",
-    "uptimeWeek": "77.60%",
-    "uptimeMonth": "94.85%",
+    "uptimeDay": "57.61%",
+    "uptimeWeek": "77.59%",
+    "uptimeMonth": "94.84%",
     "uptimeYear": "96.33%",
     "time": 1726,
-    "timeDay": 1792,
+    "timeDay": 1794,
     "timeWeek": 1729,
     "timeMonth": 1720,
     "timeYear": 1726,
     "dailyMinutesDown": {
-      "2024-05-30": 245,
+      "2024-05-30": 264,
       "2024-05-29": 621,
       "2024-05-28": 620,
       "2024-05-27": 638,
-      "2024-05-26": 132
+      "2024-05-26": 114
     }
   },
   {
@@ -104,21 +104,21 @@
     "slug": "b2b-marketing-services",
     "status": "down",
     "uptime": "96.33%",
-    "uptimeDay": "57.67%",
-    "uptimeWeek": "77.60%",
-    "uptimeMonth": "94.85%",
+    "uptimeDay": "57.58%",
+    "uptimeWeek": "77.58%",
+    "uptimeMonth": "94.84%",
     "uptimeYear": "96.33%",
     "time": 1726,
-    "timeDay": 1792,
+    "timeDay": 1794,
     "timeWeek": 1729,
     "timeMonth": 1720,
     "timeYear": 1726,
     "dailyMinutesDown": {
-      "2024-05-30": 245,
+      "2024-05-30": 264,
       "2024-05-29": 621,
       "2024-05-28": 620,
       "2024-05-27": 638,
-      "2024-05-26": 132
+      "2024-05-26": 114
     }
   }
 ]
