@@ -80,7 +80,7 @@
     "slug": "b2b-marketing-services",
     "status": "down",
     "uptime": "96.80%",
-    "uptimeDay": "59.88%",
+    "uptimeDay": "59.89%",
     "uptimeWeek": "78.92%",
     "uptimeMonth": "95.15%",
     "uptimeYear": "96.80%",
@@ -103,8 +103,8 @@
     "slug": "b2b-marketing-services",
     "status": "down",
     "uptime": "96.80%",
-    "uptimeDay": "59.84%",
-    "uptimeWeek": "78.91%",
+    "uptimeDay": "59.87%",
+    "uptimeWeek": "78.92%",
     "uptimeMonth": "95.15%",
     "uptimeYear": "96.80%",
     "time": 1724,
@@ -113,7 +113,7 @@
     "timeMonth": 1719,
     "timeYear": 1724,
     "dailyMinutesDown": {
-      "2024-06-02": 420,
+      "2024-06-02": 419,
       "2024-06-01": 633,
       "2024-05-31": 625,
       "2024-05-30": 447
