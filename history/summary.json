@@ -13,7 +13,7 @@
     "time": 2131,
     "timeDay": 2016,
     "timeWeek": 2363,
-    "timeMonth": 2264,
+    "timeMonth": 2296,
     "timeYear": 2131,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 933,
     "timeDay": 841,
     "timeWeek": 943,
-    "timeMonth": 914,
+    "timeMonth": 917,
     "timeYear": 933,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 2040,
     "timeDay": 2215,
     "timeWeek": 2104,
-    "timeMonth": 2140,
+    "timeMonth": 2158,
     "timeYear": 2040,
     "dailyMinutesDown": {
       "2024-05-16": 21
@@ -69,7 +69,7 @@
     "time": 1325,
     "timeDay": 1032,
     "timeWeek": 1304,
-    "timeMonth": 1316,
+    "timeMonth": 1330,
     "timeYear": 1325,
     "dailyMinutesDown": {}
   },
@@ -79,21 +79,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/b2b-marketingservices.de.ico",
     "slug": "b2b-marketing-services",
     "status": "down",
-    "uptime": "97.00%",
-    "uptimeDay": "52.42%",
-    "uptimeWeek": "78.34%",
-    "uptimeMonth": "95.02%",
-    "uptimeYear": "97.00%",
+    "uptime": "97.02%",
+    "uptimeDay": "52.21%",
+    "uptimeWeek": "78.48%",
+    "uptimeMonth": "95.05%",
+    "uptimeYear": "97.02%",
     "time": 1727,
-    "timeDay": 1712,
+    "timeDay": 1713,
     "timeWeek": 1736,
     "timeMonth": 1723,
     "timeYear": 1727,
     "dailyMinutesDown": {
-      "2024-06-06": 683,
+      "2024-06-06": 686,
       "2024-06-05": 639,
       "2024-06-04": 710,
-      "2024-06-03": 153
+      "2024-06-03": 136
     }
   },
   {
@@ -102,21 +102,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/b2b-marketingservices.de.ico",
     "slug": "b2b-marketing-services",
     "status": "down",
-    "uptime": "97.00%",
-    "uptimeDay": "52.39%",
-    "uptimeWeek": "78.34%",
-    "uptimeMonth": "95.02%",
-    "uptimeYear": "97.00%",
+    "uptime": "97.01%",
+    "uptimeDay": "52.19%",
+    "uptimeWeek": "78.48%",
+    "uptimeMonth": "95.05%",
+    "uptimeYear": "97.01%",
     "time": 1727,
-    "timeDay": 1712,
+    "timeDay": 1713,
     "timeWeek": 1736,
     "timeMonth": 1723,
     "timeYear": 1727,
     "dailyMinutesDown": {
-      "2024-06-06": 684,
+      "2024-06-06": 686,
       "2024-06-05": 639,
       "2024-06-04": 710,
-      "2024-06-03": 153
+      "2024-06-03": 136
     }
   }
 ]
