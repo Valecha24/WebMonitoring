@@ -81,20 +81,20 @@
     "status": "down",
     "uptime": "96.93%",
     "uptimeDay": "51.15%",
-    "uptimeWeek": "77.34%",
-    "uptimeMonth": "94.79%",
+    "uptimeWeek": "77.33%",
+    "uptimeMonth": "94.78%",
     "uptimeYear": "96.93%",
     "time": 1729,
-    "timeDay": 1785,
-    "timeWeek": 1752,
-    "timeMonth": 1728,
+    "timeDay": 1795,
+    "timeWeek": 1754,
+    "timeMonth": 1729,
     "timeYear": 1729,
     "dailyMinutesDown": {
-      "2024-06-08": 196,
+      "2024-06-08": 215,
       "2024-06-07": 698,
       "2024-06-06": 686,
       "2024-06-05": 639,
-      "2024-06-04": 65
+      "2024-06-04": 47
     }
   },
   {
@@ -109,16 +109,16 @@
     "uptimeMonth": "94.78%",
     "uptimeYear": "96.93%",
     "time": 1729,
-    "timeDay": 1785,
+    "timeDay": 1795,
     "timeWeek": 1752,
-    "timeMonth": 1728,
+    "timeMonth": 1729,
     "timeYear": 1729,
     "dailyMinutesDown": {
-      "2024-06-08": 197,
+      "2024-06-08": 215,
       "2024-06-07": 698,
       "2024-06-06": 686,
       "2024-06-05": 639,
-      "2024-06-04": 65
+      "2024-06-04": 47
     }
   }
 ]
